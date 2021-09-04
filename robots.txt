@@ -17,4 +17,4 @@ disallow: /LICENSE/
 allow: /index/
 
 
-sitemap: http://paramatin.me 
+sitemap: http://KeinShin.me/
